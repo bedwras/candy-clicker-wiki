@@ -1,2 +1,8 @@
 # candy-clicker-wiki
-a work in progress wiki for a minecraft minigame
+
+## Upcoming Features
+
+- Interactive calendar
+- Event information
+- Skill information
+- New player tutorial
