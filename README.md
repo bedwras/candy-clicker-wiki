@@ -6,3 +6,4 @@
 - Event information
 - Skill information
 - New player tutorial
+- Loot tables
