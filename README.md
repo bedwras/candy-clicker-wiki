@@ -7,3 +7,4 @@
 - Skill information
 - New player tutorial
 - Loot tables
+- Mobs list
