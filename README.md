@@ -8,3 +8,4 @@
 - New player tutorial
 - Loot tables
 - Mobs list
+- Combat pathways
