@@ -7,3 +7,37 @@
     color:  red;
     font-size: 32px;
 }
+
+
+.navbar {
+    position: sticky;
+    top: 0px;
+    height: 100%;
+    border: 2px solid white;
+    padding: 10px;
+    z-index: 1001;
+    background-color: #f9f9f9;
+    overflow: hidden;
+    justify-content: center;
+}
+
+ul {
+    font-style: none;
+    list-style: none;
+    display: inline;
+}
+
+#nav-link {
+    border-style: none;
+    border: 2px solid #d8d8d8;
+    border-radius: 6px;;
+    font-weight: 500;
+    font-size: 16px;
+    color: rgb(15, 119, 238);
+    padding: 10px;
+    background: none;
+    user-select: none;
+    text-decoration: none;
+    float: left;
+    margin: 2px;
+}
